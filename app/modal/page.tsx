@@ -1,9 +1,8 @@
 "use client";
 import { Modal } from "@/components/modal";
 import { Nav } from "@/components/nav";
-import Link from "next/link";
 
-export default function Post() {
+export default function Page() {
   return (
     <>
       <header>
