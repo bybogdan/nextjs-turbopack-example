@@ -1,3 +1,16 @@
+# Try out Next.js 13 with (`/app`-dir) and Picocss
+
+**NOTE: This is built using experimental technology for fun - expect there to be bugs.**
+
+```bash
+# 1. Create a Next.js 13 project with Turbopack
+npx create-next-app@latest --example with-turbopack
+# 2. Start the Next.js development server (with Turbopack)
+next dev --turbo
+```
+
+https://nextjs.org/docs/advanced-features/turbopack
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
